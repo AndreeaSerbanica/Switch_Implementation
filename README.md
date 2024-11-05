@@ -33,8 +33,20 @@ if is_unicast(dest_mac):
                     vlan_dest = VLANS_map[get_interface_name(i)]
                     send_with_vlan(vlan_id, vlan_src ,vlan_dest, i, length, data)
 ```
+
 **Task 2 - VLAN:**
+
 The switch needs to check the VLAN to send frames more efficiently, limiting transmission to specific ports only.
+
+The switch reads port priorities and VLAN assignments from the configuration file using(`read_config_file()`). The VLANs are stored in a dictionary called `VLANS_map`.
+
+The information is send through the `send_with_vlan()` function, which has **4 cases**: 
+- **access to trunk:** Sends a tagged frame.
+- **access to access:** Sends the frame without modification.
+- **trunk to trunk:** Forwards the frame as-is.
+- **trunk to access:** Sends an untagged frame.
+
+**Task 3 - STP:**
 
 
 
