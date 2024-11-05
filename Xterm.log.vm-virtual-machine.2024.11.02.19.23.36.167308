@@ -1,0 +1,46 @@
+I am the root bridge
+Sending BPDU on interface 2
+Sending BPDU on interface 3
+^CTraceback (most recent call last):
+  File "/home/vm/Desktop/Faculta/An3Sem1/RL/tema1-public/switch.py", line 191, in <module>
+    main()
+  File "/home/vm/Desktop/Faculta/An3Sem1/RL/tema1-public/switch.py", line 119, in main
+    t = threading.Thread(target=send_bdpu_every_sec(bdpu_packet, interfaces))
+  File "/home/vm/Desktop/Faculta/An3Sem1/RL/tema1-public/switch.py", line 40, in send_bdpu_every_sec
+    time.sleep(1)
+KeyboardInterrupt
+make: *** [Makefile:32: run_switch] Interrupt
+
+[?2004hroot@vm-virtual-machine:/home/vm/Desktop/Faculta/An3Sem1/RL/tema1-public# make 
+run_switch SWITCH_ID=0
+[?2004lgcc -L. -shared lib/queue.o lib/list.o lib/lib.o  -o dlink.so
+python3 switch.py 0 $(ifconfig -a | grep -o '^[^ :]*' | grep -v 'lo' | tr '\n' ' ')
+Initializing the switch
+Setting up interface: r-0
+Setting up interface: r-1
+Setting up interface: rr-0-1
+Setting up interface: rr-0-2
+# Starting switch with id 0
+[INFO] Switch MAC de:fe:c8:ed:00:00
+Interfaces states from init_stp: {'rr-0-1': 'BLOCKING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Vlan map form init bdpu: {'r-0': '1', 'r-1': '2', 'rr-0-1': 'T', 'rr-0-2': 'T'}
+Trunk ports from init bdpu: ['rr-0-1', 'rr-0-2']
+r-0
+r-1
+rr-0-1
+rr-0-2
+Priority: 14
+VLANS map: {'r-0': '1', 'r-1': '2', 'rr-0-1': 'T', 'rr-0-2': 'T'}
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 19
+VLAN ID: -1
+Received frame of size 33 on interface 2
+Traceback (most recent call last):
+  File "/home/vm/Desktop/Faculta/An3Sem1/RL/tema1-public/switch.py", line 196, in <module>
+  File "/home/vm/Desktop/Faculta/An3Sem1/RL/tema1-public/switch.py", line 155, in main
+    else:
+ValueError: invalid literal for int() with base 10: 'T'
+make: *** wait: No child processes.  Stop.
+make: *** Waiting for unfinished jobs....
+make: *** wait: No child processes.  Stop.

@@ -1,0 +1,3936 @@
+Initializing the switch
+# Starting switch with id 0
+[INFO] Switch MAC de:fe:c8:ed:00:00
+<<<<<<< HEAD
+r-0
+r-1
+rr-0-1
+rr-0-2
+=======
+Sending BPDU on interface 2 - rr-0-1
+r-0
+r-1
+Sending BPDU on interface 3 - rr-0-2
+rr-0-1
+rr-0-2
+Priority: 14
+VLANS map: {'r-0': '1', 'r-1': '2', 'rr-0-1': 'T', 'rr-0-2': 'T'}
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'BLOCKING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:02
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Learning MAC de:ad:be:ef:00:00 on interface 0 with VLAN 1
+Making flooding
+I came from an acces port
+Dropping frame due to VLAN mismatch (frame VLAN: 1, port VLAN: 2)
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:02
+EtherType: 2054
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Learning MAC de:ad:be:ef:00:02 on interface 2 with VLAN 1
+Making broadcast
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+I came from an trunk port
+Dropping frame due to VLAN mismatch (frame VLAN: 1, port VLAN: 2)
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:02
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2054
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Just sending
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:02
+EtherType: 2048
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Just sending
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:03
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Making flooding
+I came from an acces port
+Dropping frame due to VLAN mismatch (frame VLAN: 1, port VLAN: 2)
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2054
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Learning MAC de:ad:be:ef:00:03 on interface 2 with VLAN 1
+Making broadcast
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+I came from an trunk port
+Dropping frame due to VLAN mismatch (frame VLAN: 1, port VLAN: 2)
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:03
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2054
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Just sending
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2048
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Just sending
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:02
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Just sending
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:02
+EtherType: 2048
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Just sending
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:02
+EtherType: 2054
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Just sending
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:02
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2054
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Just sending
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:03
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Just sending
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2048
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Just sending
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2054
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Just sending
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:03
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2054
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Just sending
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Making flooding
+I came from an acces port
+Dropping frame due to VLAN mismatch (frame VLAN: 1, port VLAN: 2)
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2048
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Making flooding
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+I came from an trunk port
+Dropping frame due to VLAN mismatch (frame VLAN: 1, port VLAN: 2)
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:02
+EtherType: 2054
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Making broadcast
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+I came from an trunk port
+Dropping frame due to VLAN mismatch (frame VLAN: 1, port VLAN: 2)
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:03
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Just sending
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2048
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Just sending
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:03
+EtherType: 2054
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Just sending
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:03
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2054
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Just sending
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 19
+VLAN ID: -1
+Received frame of size 18 on interface 3
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 19, Sender bridge ID: 19, Sender path: 0
+Discarding BPDU on interface 3: does not improve current root path.
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:02:04
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 3
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 19, Sender path: 10
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2048
+VLAN ID: 2
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Learning MAC de:ad:be:ef:00:04 on interface 2 with VLAN 2
+Making flooding
+I came from an trunk port
+Dropping frame due to VLAN mismatch (frame VLAN: 2, port VLAN: 1)
+I came from an trunk port
+Forwarding frame to interface 1 with VLAN 2
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 2054
+VLAN ID: -1
+Received frame of size 42 on interface 1
+<<<<<<< HEAD
+=======
+Learning MAC de:ad:be:ef:00:01 on interface 1 with VLAN 2
+Making broadcast
+I came from an acces port
+Dropping frame due to VLAN mismatch (frame VLAN: 2, port VLAN: 1)
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2054
+VLAN ID: 2
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Just sending
+I came from an trunk port
+Forwarding frame to interface 1 with VLAN 2
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 2048
+VLAN ID: -1
+Received frame of size 42 on interface 1
+<<<<<<< HEAD
+=======
+Just sending
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:05
+EtherType: 2048
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Learning MAC de:ad:be:ef:00:05 on interface 2 with VLAN 1
+Just sending
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2054
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Making broadcast
+I came from an acces port
+Dropping frame due to VLAN mismatch (frame VLAN: 1, port VLAN: 2)
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:05
+EtherType: 2054
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Just sending
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:05
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
+VLAN ID: -1
+Received frame of size 42 on interface 0
+<<<<<<< HEAD
+=======
+Just sending
+I came from an acces port
+Forwarding frame to interface 2 with VLAN T
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: de:ad:be:ef:00:09
+Source MAC: de:ad:be:ef:00:05
+EtherType: 2048
+VLAN ID: 1
+Received frame of size 46 on interface 2
+<<<<<<< HEAD
+=======
+Making flooding
+I came from an trunk port
+Forwarding frame to interface 0 with VLAN 1
+I came from an trunk port
+Dropping frame due to VLAN mismatch (frame VLAN: 1, port VLAN: 2)
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+<<<<<<< HEAD
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
+=======
+I am an Bdpu pack
+Interfaces states from process_bdpu_packet: {'rr-0-1': 'LISTENING', 'rr-0-2': 'BLOCKING', 'r-0': 'LISTENING', 'r-1': 'LISTENING'}
+Root bridge ID: 10, Sender bridge ID: 10, Sender path: 0
+>>>>>>> 2ba22e4b4ba98b28bfd5e031f1bd9ebafc0c67ca
+Destination MAC: 01:80:c2:00:00:00
+Source MAC: de:fe:c8:ed:01:02
+EtherType: 10
+VLAN ID: -1
+Received frame of size 18 on interface 2
