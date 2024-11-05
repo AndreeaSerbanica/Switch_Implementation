@@ -1,4 +1,43 @@
-Scheleton for the Hub implementation.
+# Switch Imeplementation
+
+## About Code
+
+
+**Task 1 - MAC Table:**
+
+The switch has a MAC Table, which is initially an empty dictionary `mac_table`. 
+Over time, the switch populates this table with information about the routes for sending data.
+
+The switch updates the `mac_table` with the source MAC address (`verif_in_mac_table()`)
+
+If the switch cannot locate the destination address in the MAC Table, it broadcasts the frame to all interfaces, except the one it was received on. Otherwise, it forwards the frame directly to the destination.
+```pyhton
+if is_unicast(dest_mac):
+            # Check destination in MAC table and match VLAN ID
+            if dest_mac in mac_table:
+                out_interface = mac_table[dest_mac][0]
+                
+                #Just sent te packet to the right interface
+                vlan_dest = VLANS_map[get_interface_name(out_interface)]
+                send_with_vlan(vlan_id, vlan_src, vlan_dest, out_interface, length, data)
+            else:
+                # Flood frame on all matching VLAN interfaces except incoming
+                for i in bdpu_packet.interfaces_that_work():
+                    if i != interface:
+                        vlan_dest = VLANS_map[get_interface_name(i)]
+                        send_with_vlan(vlan_id, vlan_src, vlan_dest, i, length, data)
+        else:
+            # Broadcast frame to all matching VLAN interfaces
+            for i in bdpu_packet.interfaces_that_work():
+                if i != interface:
+                    vlan_dest = VLANS_map[get_interface_name(i)]
+                    send_with_vlan(vlan_id, vlan_src ,vlan_dest, i, length, data)
+```
+**Task 2 - VLAN:**
+The switch needs to check the VLAN to send frames more efficiently, limiting transmission to specific ports only.
+
+
+
 
 ## Running
 
