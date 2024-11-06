@@ -7,6 +7,7 @@ import time
 from wrapper import recv_from_any_link, send_to_link, get_switch_mac, get_interface_name
 from stp import BPDU, create_bpdu_tag # type: ignore
 
+
 def parse_ethernet_header(data):
     dest_mac = data[0:6]
     src_mac = data[6:12]
@@ -23,8 +24,10 @@ def parse_ethernet_header(data):
 
     return dest_mac, src_mac, ether_type, vlan_id
 
+
 def create_vlan_tag(vlan_id):
     return struct.pack('!H', 0x8200) + struct.pack('!H', vlan_id & 0x0FFF)
+
 
 def send_bdpu_every_sec(bdpu_pack: BPDU, interfaces):
     while True:
@@ -32,14 +35,13 @@ def send_bdpu_every_sec(bdpu_pack: BPDU, interfaces):
         if bdpu_pack.own_bridge_ID == bdpu_pack.root_bridge_ID:
             for i in interfaces:
                 if get_interface_name(i) in bdpu_pack.trunk_ports:
-                    # print(f"Sending BPDU on interface {i} - {get_interface_name(i)}")
                     bpdu_data = create_bpdu_tag(bdpu_pack.root_bridge_ID, bdpu_pack.own_bridge_ID, 0)
                     send_to_link(i, len(bpdu_data), bpdu_data)
 
         time.sleep(1)
 
 
-
+# Function to check if the MAC address is unicast
 def is_unicast(mac):
     first_byte = int(mac[:2], 16)
     return (first_byte & 1) == 0
@@ -63,37 +65,24 @@ def read_config_file(switch_id, interfaces):
 
 
 def send_with_vlan(vlan_id, vlan_src, vlan_dest, out_interface, length, data):
-
-    # if the switch recieve from a acces port and sent to a trunk port
     if vlan_id == -1:
-        # print(f"I came from an acces port")
         vlan_id = vlan_src
-        if vlan_dest == "T":
+        if vlan_dest == "T": # acces -> trunk
             tagged_frame = data[0:12] + create_vlan_tag(vlan_src) + data[12:]
             send_to_link(out_interface, length + 4, tagged_frame)
-            # print(f"Forwarding frame to interface {out_interface} with VLAN {vlan_dest}")
-        else:
+        else: # acces -> acces
             if int(vlan_dest) == vlan_src:
                 send_to_link(out_interface, length, data)
-                # print(f"Forwarding frame to interface {out_interface} with VLAN {vlan_dest}")
-            # else:
-            #     print(f"Dropping frame due to VLAN mismatch (frame VLAN: {vlan_id}, port VLAN: {vlan_dest})")
 
     else:
-        # print(f"I came from an trunk port")
-
-        if vlan_dest == "T":
+        if vlan_dest == "T": # trunk -> trunk
             send_to_link(out_interface, length, data)
-            # print(f"Forwarding tagged frame to trunk interface {out_interface} with VLAN {vlan_id}")
         else:
-            if int(vlan_dest) == vlan_src:
+            if int(vlan_dest) == vlan_src: # trunk -> acces
                 removed_tagged_frame = data[0:12] + data[16:]
                 send_to_link(out_interface, length - 4, removed_tagged_frame)
-                # print(f"Forwarding frame to interface {out_interface} with VLAN {vlan_dest}")
-            # else:
-            #     print(f"Dropping frame due to VLAN mismatch (frame VLAN: {vlan_id}, port VLAN: {vlan_dest})")
 
-
+# FUnction to check if the MAC address is multicast
 def is_multicast(mac_addr: str) -> bool:
 
     braodcast_mac = "ff:ff:ff:ff:ff:ff"
@@ -102,7 +91,7 @@ def is_multicast(mac_addr: str) -> bool:
     return (octet & 1) != 0 and mac_addr.lower() != braodcast_mac
 
 
-def is_bpdu(bdpu_pack: BPDU, interface, dest_mac, data, len) -> bool:
+def bdpu_verif(bdpu_pack: BPDU, interface, dest_mac, data, len) -> bool:
     # Check for BPDU-specific multicast MAC address
     if is_multicast(dest_mac):
         bdpu_pack.process_bdpu_packet(interface, data, len)
@@ -123,7 +112,6 @@ def init_vlan_src(vlan_id, VLANS_map, interface) -> int:
 def verif_in_mac_table(mac_table, src_mac, interface, vlan_src):
     if src_mac not in mac_table:
         mac_table[src_mac] = (interface, vlan_src)
-        # print(f"Learning MAC {src_mac} on interface {interface} with VLAN {vlan_src}")
 
     return mac_table
 
@@ -136,11 +124,13 @@ def main():
     print(f"# Starting switch with id {switch_id}", flush=True)
     print("[INFO] Switch MAC", ':'.join(f'{b:02x}' for b in get_switch_mac()))
     
+    # Read the priority and the VLANs
     priority, VLANS_map = read_config_file(switch_id, interfaces)
 
+    # Create the BPDU packet
     bdpu_packet = BPDU(priority, VLANS_map, interfaces)
 
-
+    # Create a thread to send the BPDU packet every second
     t = threading.Thread(target=send_bdpu_every_sec, args=(bdpu_packet, interfaces))
 
     t.start()
@@ -148,10 +138,6 @@ def main():
 
     for i in interfaces:
         print(get_interface_name(i))
-    
-    # print(f"Priority: {priority}")
-    # print(f"VLANS map: {VLANS_map}")
-    
 
     mac_table = {}
 
@@ -171,7 +157,7 @@ def main():
         print(f"Received frame of size {length} on interface {interface}", flush=True)
 
         # Check for BPDU frames
-        if is_bpdu(bdpu_packet, interface, dest_mac, data, length):
+        if bdpu_verif(bdpu_packet, interface, dest_mac, data, length):
             continue
 
         vlan_src:int = init_vlan_src(vlan_id, VLANS_map, interface)
@@ -184,26 +170,21 @@ def main():
             if dest_mac in mac_table:
                 out_interface = mac_table[dest_mac][0]
                 
-                # Filter by VLAN ID
-                # print(f"Just sending")
+                #Just sent te packet to the right interface
                 vlan_dest = VLANS_map[get_interface_name(out_interface)]
                 send_with_vlan(vlan_id, vlan_src, vlan_dest, out_interface, length, data)
             else:
                 # Flood frame on all matching VLAN interfaces except incoming
-                # print(f"Making flooding")
                 for i in bdpu_packet.interfaces_that_work():
                     if i != interface:
                         vlan_dest = VLANS_map[get_interface_name(i)]
                         send_with_vlan(vlan_id, vlan_src, vlan_dest, i, length, data)
         else:
             # Broadcast frame to all matching VLAN interfaces
-            # print(f"Making broadcast")
             for i in bdpu_packet.interfaces_that_work():
                 if i != interface:
                     vlan_dest = VLANS_map[get_interface_name(i)]
                     send_with_vlan(vlan_id, vlan_src ,vlan_dest, i, length, data)
-
-        # TODO: Implement STP support
 
 if __name__ == "__main__":
     main()

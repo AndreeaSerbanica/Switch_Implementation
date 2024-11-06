@@ -11,7 +11,7 @@ Over time, the switch populates this table with information about the routes for
 The switch updates the `mac_table` with the source MAC address (`verif_in_mac_table()`)
 
 If the switch cannot locate the destination address in the MAC Table, it broadcasts the frame to all interfaces, except the one it was received on. Otherwise, it forwards the frame directly to the destination.
-```pyhton
+```py
 if is_unicast(dest_mac):
             # Check destination in MAC table and match VLAN ID
             if dest_mac in mac_table:
@@ -38,7 +38,7 @@ if is_unicast(dest_mac):
 
 The switch needs to check the VLAN to send frames more efficiently, limiting transmission to specific ports only.
 
-The switch reads port priorities and VLAN assignments from the configuration file using(`read_config_file()`). The VLANs are stored in a dictionary called `VLANS_map`.
+The switch is reading the port priorities and the VLANs for each port from the configuration file using(`read_config_file()`). The VLANs are stored in a dictionary called `VLANS_map`.
 
 The information is send through the `send_with_vlan()` function, which has **4 cases**: 
 - **access to trunk:** Sends a tagged frame.
@@ -47,6 +47,23 @@ The information is send through the `send_with_vlan()` function, which has **4 c
 - **trunk to access:** Sends an untagged frame.
 
 **Task 3 - STP:**
+
+The switch is using th STP protocol, to keep the topology loop-free.
+
+The `class BDPU` is responsible for initializing a BPDU packet and handling its processing.
+
+The `send_bdpu_every_sec()` function checks if the switch is the root bridge, and if so, it creates and sends a BPDU packet on its trunk ports.
+
+The `bdpu_verif()` function checks if a recieved frame is a BPDU packet and processes it.
+
+The `process_bdpu_packet()` function is responsible for processing received BPDU packets to determine the network’s root bridge and deciding the most efficent path without loops.
+
+`process_bdpu_packet()` function: 
+- Chooses a new root bridge if the sender’s root ID is lower than the current one.
+- If this switch becomes the root, it blocks redundant trunk ports and updates port states
+- Sends updated BPDUs to other trunk ports to send new root information.
+- Modify path costs and port states for optimal path selection.
+- Keeps an active list of interfaces (`self.designated_ports`) that are not in the “BLOCKING” state, used for forwarding traffic.
 
 
 

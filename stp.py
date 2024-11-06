@@ -1,9 +1,5 @@
 #!/usr/bin/python3
-# import sys
 import struct
-# import wrapper
-# import threading
-# import time
 from wrapper import send_to_link, get_switch_mac, get_interface_name
 
 # Function that returns only the trunk ports
@@ -56,6 +52,7 @@ def initialize_stp(switch_prio, vlan_map):
 
 
 class BPDU:
+    # Initalization
     def __init__(self, switch_prio, vlan_map, interfaces):
         self.interfaces_states, self.own_bridge_ID, self.root_bridge_ID, self.root_path_cost, self.designated_ports = initialize_stp(switch_prio, vlan_map)
         self.root_port = -1
@@ -65,7 +62,6 @@ class BPDU:
     
     # Function that processes the BPDU packet - from pseudocode
     def process_bdpu_packet(self, interface, data, length):
-        # print(f"Interfaces states from process_bdpu_packet: {self.interfaces_states}")
 
         root_bridge_ID, sender_bridge_ID, sender_path = struct.unpack("!3H", data[12:18])
          
@@ -74,10 +70,9 @@ class BPDU:
             self.root_path_cost = sender_path + 10
             self.root_port = interface
             
-            # if we were the Root Bridge:
-            # set all interfaces not to hosts to blocking except the root port
+
             if self.own_bridge_ID == self.root_bridge_ID:
-               for i in self.interfaces: # interfaces = {0,1,2}  #design = {rr ...}
+               for i in self.interfaces: # interfaces = {0,1,2}  # design = {rr ...}
                     if self.vlan_map[get_interface_name(i)] == "T" and interface != i:
                         self.interfaces_states[i] = "BLOCKING"
                         self.designated_ports.remove(get_interface_name(i))
@@ -87,34 +82,30 @@ class BPDU:
                 self.interfaces_states[get_interface_name(self.root_port)] = "LISTENING"
 
             
-            # Update and forward this BPDU to all other trunk ports with:
-            #     sender_bridge_ID = own_bridge_ID
-            #     sender_path_cost = root_path_cost
             bpdu_packet = create_bpdu_tag(self.root_bridge_ID, self.own_bridge_ID, self.root_path_cost)
-
             for i in self.interfaces:
                 if get_interface_name(i) in self.trunk_ports and i != interface:
                     len_bdpu = len(bpdu_packet)
                     send_to_link(i, len_bdpu, bpdu_packet)
+
         
         elif root_bridge_ID == self.root_bridge_ID:
             if interface == self.root_port and  sender_bridge_ID + 10 < self.root_path_cost:
                 self.root_path_cost = sender_path + 10
+
             
             elif interface != self.root_port:
                 if sender_path > self.root_path_cost:
                     if get_interface_name(interface) not in self.designated_ports:
                         self.designated_ports.append(get_interface_name(interface))
                         self.interfaces_states[get_interface_name(interface)] = "LISTENING"
-                        # print(f"Adding interface {interface} to designated ports")
+
         
         elif sender_bridge_ID == self.own_bridge_ID:
             self.interfaces_states[get_interface_name(interface)] = "BLOCKING"
             port = get_interface_name(interface)
-            # print(f"Port {interface} set to BLOCKING due to loop prevention.")
             self.designated_ports.remove(port)
-        # else:
-        #     print(f"Discarding BPDU on interface {interface}: does not improve current root path.")
+
 
         if self.own_bridge_ID == self.root_bridge_ID:
             for i in self.interfaces:
@@ -123,6 +114,7 @@ class BPDU:
                     self.designated_ports.append(get_interface_name(i))
         
 
+    # Function that returns that are not BLOCKING
     def interfaces_that_work(self):
         work_interface = []
 
